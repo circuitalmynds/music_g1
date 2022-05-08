@@ -7,6 +7,11 @@
             "size": 3.651062784
         },
         {
+            "name": "Prokofiev - Lieutenant Kijé_Romance-n1scluzlPz0.mp4",
+            "path": "music_g1/videos/Prokofiev - Lieutenant Kijé_Romance-n1scluzlPz0.mp4",
+            "size": 5.624582144000001
+        },
+        {
             "name": "Esos Locos Bajitos-RKbh1tlJCx4.mp4",
             "path": "music_g1/videos/Esos Locos Bajitos-RKbh1tlJCx4.mp4",
             "size": 8.331211776
@@ -20,6 +25,11 @@
             "name": "Monomen - Drum Of Glass-upIexEwu_Qc.mp4",
             "path": "music_g1/videos/Monomen - Drum Of Glass-upIexEwu_Qc.mp4",
             "size": 26.892720128
+        },
+        {
+            "name": "[1985] Carioca – Kartik [Full Album]-bStsA4DK0bs.mp4",
+            "path": "music_g1/videos/[1985] Carioca – Kartik [Full Album]-bStsA4DK0bs.mp4",
+            "size": 42.718826496000005
         },
         {
             "name": "Thompson Twins - Hold Me Now-H9694K85Xc8.mp4",
@@ -47,5 +57,5 @@
             "size": 42.692587520000004
         }
     ],
-    "total_size": 132.094384128
+    "total_size": 180.437792768
 }
