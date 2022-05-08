@@ -2,6 +2,11 @@
     "available_space": true,
     "files": [
         {
+            "name": "Esos Locos Bajitos-RKbh1tlJCx4.mp4",
+            "path": "music_g1/videos/Esos Locos Bajitos-RKbh1tlJCx4.mp4",
+            "size": 8.331211776
+        },
+        {
             "name": "My Secret Muse-66pYt2vFyAQ.mp4",
             "path": "music_g1/videos/My Secret Muse-66pYt2vFyAQ.mp4",
             "size": 6.980942848000001
@@ -27,5 +32,5 @@
             "size": 42.692587520000004
         }
     ],
-    "total_size": 89.87418624
+    "total_size": 98.205398016
 }
