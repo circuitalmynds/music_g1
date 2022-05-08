@@ -1,5 +1,11 @@
 {
     "available_space": true,
-    "files": [],
-    "total_size": 0.0
+    "files": [
+        {
+            "name": "My Secret Muse-66pYt2vFyAQ.mp4",
+            "path": "music_g1/videos/My Secret Muse-66pYt2vFyAQ.mp4",
+            "size": 6.980942848000001
+        }
+    ],
+    "total_size": 6.980942848000001
 }
