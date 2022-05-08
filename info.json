@@ -2,6 +2,11 @@
     "available_space": true,
     "files": [
         {
+            "name": "You Showed Me The Way-O82HBgEU-lA.mp4",
+            "path": "music_g1/videos/You Showed Me The Way-O82HBgEU-lA.mp4",
+            "size": 3.651062784
+        },
+        {
             "name": "Esos Locos Bajitos-RKbh1tlJCx4.mp4",
             "path": "music_g1/videos/Esos Locos Bajitos-RKbh1tlJCx4.mp4",
             "size": 8.331211776
@@ -37,5 +42,5 @@
             "size": 42.692587520000004
         }
     ],
-    "total_size": 101.55060121600002
+    "total_size": 105.20166400000002
 }
