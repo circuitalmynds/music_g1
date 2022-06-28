@@ -1,61 +1,73 @@
 {
     "available_space": true,
-    "files": [
+    "content": [
         {
             "name": "Esos Locos Bajitos-RKbh1tlJCx4.mp4",
-            "path": "music_g1/videos/Esos Locos Bajitos-RKbh1tlJCx4.mp4",
-            "size": 8.331211776
+            "path": "g1/videos/Esos Locos Bajitos-RKbh1tlJCx4.mp4",
+            "size": 8.331211776,
+            "url": "https://github.com/circuitalmynds/music_g1/blob/main/videos/Esos Locos Bajitos-RKbh1tlJCx4.mp4?raw=true"
         },
         {
             "name": "[1985] Carioca – Kartik [Full Album]-bStsA4DK0bs.mp4",
-            "path": "music_g1/videos/[1985] Carioca – Kartik [Full Album]-bStsA4DK0bs.mp4",
-            "size": 42.718826496000005
+            "path": "g1/videos/[1985] Carioca – Kartik [Full Album]-bStsA4DK0bs.mp4",
+            "size": 42.718826496000005,
+            "url": "https://github.com/circuitalmynds/music_g1/blob/main/videos/[1985] Carioca – Kartik [Full Album]-bStsA4DK0bs.mp4?raw=true"
         },
         {
             "name": "Dmitri Shostakovich (1906-1975)  - The Gadfly, suite (1955) - Homage to great Youtubers  - imusiciki-BWReGCOFCGo.mp4",
-            "path": "music_g1/videos/Dmitri Shostakovich (1906-1975)  - The Gadfly, suite (1955) - Homage to great Youtubers  - imusiciki-BWReGCOFCGo.mp4",
-            "size": 42.692587520000004
+            "path": "g1/videos/Dmitri Shostakovich (1906-1975)  - The Gadfly, suite (1955) - Homage to great Youtubers  - imusiciki-BWReGCOFCGo.mp4",
+            "size": 42.692587520000004,
+            "url": "https://github.com/circuitalmynds/music_g1/blob/main/videos/Dmitri Shostakovich (1906-1975)  - The Gadfly, suite (1955) - Homage to great Youtubers  - imusiciki-BWReGCOFCGo.mp4?raw=true"
         },
         {
             "name": "Gene Austin - Nobody Cares If I'm Blue 1930 Talkie Hit From 'Bright Lights'-IQXcJWfsvGI.mp4",
-            "path": "music_g1/videos/Gene Austin - Nobody Cares If I'm Blue 1930 Talkie Hit From 'Bright Lights'-IQXcJWfsvGI.mp4",
-            "size": 3.3452032000000003
+            "path": "g1/videos/Gene Austin - Nobody Cares If I'm Blue 1930 Talkie Hit From 'Bright Lights'-IQXcJWfsvGI.mp4",
+            "size": 3.3452032000000003,
+            "url": "https://github.com/circuitalmynds/music_g1/blob/main/videos/Gene Austin - Nobody Cares If I'm Blue 1930 Talkie Hit From 'Bright Lights'-IQXcJWfsvGI.mp4?raw=true"
         },
         {
             "name": "Thompson Twins - Hold Me Now-H9694K85Xc8.mp4",
-            "path": "music_g1/videos/Thompson Twins - Hold Me Now-H9694K85Xc8.mp4",
-            "size": 18.069357568
+            "path": "g1/videos/Thompson Twins - Hold Me Now-H9694K85Xc8.mp4",
+            "size": 18.069357568,
+            "url": "https://github.com/circuitalmynds/music_g1/blob/main/videos/Thompson Twins - Hold Me Now-H9694K85Xc8.mp4?raw=true"
         },
         {
             "name": "My Secret Muse-66pYt2vFyAQ.mp4",
-            "path": "music_g1/videos/My Secret Muse-66pYt2vFyAQ.mp4",
-            "size": 6.980942848000001
+            "path": "g1/videos/My Secret Muse-66pYt2vFyAQ.mp4",
+            "size": 6.980942848000001,
+            "url": "https://github.com/circuitalmynds/music_g1/blob/main/videos/My Secret Muse-66pYt2vFyAQ.mp4?raw=true"
         },
         {
             "name": "Johannes Brahms - Hungarian Dance No. 5-3X9LvC9WkkQ.mp4",
-            "path": "music_g1/videos/Johannes Brahms - Hungarian Dance No. 5-3X9LvC9WkkQ.mp4",
-            "size": 11.238728704000001
+            "path": "g1/videos/Johannes Brahms - Hungarian Dance No. 5-3X9LvC9WkkQ.mp4",
+            "size": 11.238728704000001,
+            "url": "https://github.com/circuitalmynds/music_g1/blob/main/videos/Johannes Brahms - Hungarian Dance No. 5-3X9LvC9WkkQ.mp4?raw=true"
         },
         {
             "name": "Monomen - Drum Of Glass-upIexEwu_Qc.mp4",
-            "path": "music_g1/videos/Monomen - Drum Of Glass-upIexEwu_Qc.mp4",
-            "size": 26.892720128
+            "path": "g1/videos/Monomen - Drum Of Glass-upIexEwu_Qc.mp4",
+            "size": 26.892720128,
+            "url": "https://github.com/circuitalmynds/music_g1/blob/main/videos/Monomen - Drum Of Glass-upIexEwu_Qc.mp4?raw=true"
         },
         {
             "name": "You Showed Me The Way-O82HBgEU-lA.mp4",
-            "path": "music_g1/videos/You Showed Me The Way-O82HBgEU-lA.mp4",
-            "size": 3.651062784
+            "path": "g1/videos/You Showed Me The Way-O82HBgEU-lA.mp4",
+            "size": 3.651062784,
+            "url": "https://github.com/circuitalmynds/music_g1/blob/main/videos/You Showed Me The Way-O82HBgEU-lA.mp4?raw=true"
         },
         {
             "name": "Prokofiev - Lieutenant Kijé_Romance-n1scluzlPz0.mp4",
-            "path": "music_g1/videos/Prokofiev - Lieutenant Kijé_Romance-n1scluzlPz0.mp4",
-            "size": 5.624582144000001
+            "path": "g1/videos/Prokofiev - Lieutenant Kijé_Romance-n1scluzlPz0.mp4",
+            "size": 5.624582144000001,
+            "url": "https://github.com/circuitalmynds/music_g1/blob/main/videos/Prokofiev - Lieutenant Kijé_Romance-n1scluzlPz0.mp4?raw=true"
         },
         {
             "name": "Portrait of a Man-mDroNcn49Zc.mp4",
-            "path": "music_g1/videos/Portrait of a Man-mDroNcn49Zc.mp4",
-            "size": 10.8925696
+            "path": "g1/videos/Portrait of a Man-mDroNcn49Zc.mp4",
+            "size": 10.8925696,
+            "url": "https://github.com/circuitalmynds/music_g1/blob/main/videos/Portrait of a Man-mDroNcn49Zc.mp4?raw=true"
         }
     ],
+    "ready_to_push": true,
     "total_size": 180.437792768
 }
